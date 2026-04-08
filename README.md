@@ -6,7 +6,7 @@ How to use :
 2. Place the .exe where your exported Whatsapp chat is.
  <img width="1278" height="304" alt="image" src="https://github.com/user-attachments/assets/5bb0c4f4-f51c-4f60-8a12-65b1daf12ffb" />
 
-3. Drag and drop the esported chat in .zip or the extracted folder on the .exe
+3. Drag and drop the exported chat in .zip or the extracted folder on the .exe
  <img width="1288" height="244" alt="image" src="https://github.com/user-attachments/assets/0063f3d4-949a-4a17-805e-f0acf0a1f958" />
 
 4.Wait for the console to finish and press enter to close the console
