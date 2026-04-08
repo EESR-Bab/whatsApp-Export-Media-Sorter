@@ -13,7 +13,8 @@ How to use :
  <img width="1476" height="705" alt="image" src="https://github.com/user-attachments/assets/f45502d0-8ea5-482b-85f9-a522982323b3" />
 
 5.Check result in the new created folder.
- -<img width="1030" height="109" alt="image" src="https://github.com/user-attachments/assets/9da7e3ac-f4e0-48ad-a237-2a4c6867d2df" />
+ -
+ <img width="1030" height="109" alt="image" src="https://github.com/user-attachments/assets/9da7e3ac-f4e0-48ad-a237-2a4c6867d2df" />
  -
  -<img width="946" height="67" alt="image" src="https://github.com/user-attachments/assets/473f5660-90f2-4e97-a06b-a6850220c3e1" />
  -
