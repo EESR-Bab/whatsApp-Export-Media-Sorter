@@ -1,4 +1,4 @@
-A simple pythin script build in .exe to Sort media from a WhatsApp chat export into folders by date.
+A simple python script build in .exe to Sort media from a WhatsApp chat export into folders by date.
 
 How to use :
 1. Download "WhatsApp Media Sorter.exe"
