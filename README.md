@@ -1,7 +1,7 @@
 A Python-based executable for organizing WhatsApp chat exported media into folders by date.
 
 How to use :
-1. Download "WhatsApp Media Sorter.exe"
+1. Download "WhatsApp Media Sorter.exe" from release on the right.
 <br><br>
 2. Place the .exe where your exported Whatsapp chat is.
  <img width="1278" height="304" alt="image" src="https://github.com/user-attachments/assets/5bb0c4f4-f51c-4f60-8a12-65b1daf12ffb" />
