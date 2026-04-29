@@ -10,7 +10,8 @@ How to use :
  <img width="1288" height="244" alt="image" src="https://github.com/user-attachments/assets/0063f3d4-949a-4a17-805e-f0acf0a1f958" />
 <br><br>
 4.Wait for the console to finish and press enter to close the console
- <img width="1476" height="705" alt="image" src="<img width="1476" height="705" alt="Screenshot 2026-04-08 141927" src="https://github.com/user-attachments/assets/340ed364-7c1c-4ff4-b958-87cd88d08adc" />
+ <img width="1476" height="705" alt="Screenshot 2026-04-08 141927" src="https://github.com/user-attachments/assets/a20b848d-bda3-4fa0-b456-23da2d514107" />
+
 " />
 <br><br>
 5.Check result in the new created folder.
